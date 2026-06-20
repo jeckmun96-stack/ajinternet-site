@@ -1,0 +1,6 @@
+https://ajinternet.co.kr/rss https://www.ajinternet.co.kr/rss.xml 200
+https://ajinternet.co.kr/feed https://www.ajinternet.co.kr/rss.xml 200
+/rss /rss.xml 200
+/feed /rss.xml 200
+https://ajinternet.co.kr/* https://www.ajinternet.co.kr/:splat 301
+/home / 301

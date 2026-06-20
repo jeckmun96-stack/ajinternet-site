@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ajinternet.co.kr/sitemap.xml
+#DaumWebMasterTool:d53055f09845476ba350333ca1b5449a0a7f47e0c44831aa46e8aa417c54e4a0:AWZZwUDr3kzWclFHqQhYtQ==
